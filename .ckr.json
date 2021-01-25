@@ -9,7 +9,7 @@
          "repo_uoa": "ck-crowdtuning"
        },
        {
-         "repo_uoa": "ck-mlperf"
+         "repo_uoa": "ck-mlperf",
          "repo_url": "https://github.com/krai/ck-mlperf"
        },
        {
