@@ -2,7 +2,7 @@
   "data_uid": "3abe4a16a4fb17d7", 
   "data_name": "ck-tensorrt", 
   "dict": {
-    "url": "http://github.com/dividiti/ck-tensorrt", 
+    "url": "http://github.com/krai/ck-tensorrt", 
     "shared": "git",
     "repo_deps": [
        {
@@ -10,6 +10,7 @@
        },
        {
          "repo_uoa": "ck-mlperf"
+         "repo_url": "https://github.com/krai/ck-mlperf"
        },
        {
          "repo_uoa": "ck-caffe",
